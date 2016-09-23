@@ -4,8 +4,8 @@ body {
     /*margin-top: 75px;*/
 }
 
-p:hover {
-    font-size: 75px;
+.underheader:hover {
+    font-size: 60px;
     color: #FFFF33;
     text-decoration: undeline;
     
