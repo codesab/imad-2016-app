@@ -1,13 +1,13 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    background-color: #33FFB8;
+    /*margin-top: 75px;*/
 }
 
 .header {
     text-align: center;
-    height: 20px;
-    background-color: #33FCFF;
+    height: 100px;
+    background-color: #33A8FF;
     border-radius: 3px;
     border-color: white;
 }
