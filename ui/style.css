@@ -4,8 +4,11 @@ body {
     margin-top: 75px;
 }
 
-.profilepic {
-    text-align: left;
+div {
+    text-align: center;
+    height: 20px;
+    color: #33FCFF;
+    /*border: 10px solid white;*/
 }
 
 .text-big {
