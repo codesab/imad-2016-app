@@ -4,11 +4,12 @@ body {
     margin-top: 75px;
 }
 
-div {
+header {
     text-align: center;
     height: 20px;
-    color: #33FCFF;
-    /*border: 10px solid white;*/
+    background-color: #33FCFF;
+    border-radius: 3px;
+    border-color: white;
 }
 
 .headername { 
