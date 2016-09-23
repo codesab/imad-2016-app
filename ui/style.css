@@ -10,12 +10,21 @@ body {
     background-color: #33A8FF;
     border-radius: 3px;
     border-color: white;
+    margin: auto;
 }
 
 .headername { 
-        font-family: Verdana;
-        color: black;
-        text-align: center;
+    font-family: Verdana;
+    color: black;
+    text-align: center; 
+    font-size: 50px;
+}
+
+.underheader {
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    
 }
 
 .centertext-bigbold{
