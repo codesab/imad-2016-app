@@ -11,7 +11,13 @@ div {
     /*border: 10px solid white;*/
 }
 
-.text-big {
+.header { 
+        font-family: Verdana;
+        color: black;
+        text-align: center;
+}
+
+.centertext-bigbold{
     font-size: 600%;
 }
 
